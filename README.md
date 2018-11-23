@@ -6,16 +6,16 @@ Este é amontoado de módulos construídos ao longo do curso **INF 1608** da **P
 * metiter
 * gradconj
 
-E os módulos **incompletos** e, em seguida, suas funcionalidades falhas:
+E os módulos **incompletos** , sua taxa de completude, e, em seguida, suas funcionalidades falhas:
 
-* **raiz** - número de avaliações acima do esperado e tratamento errado de não-convergência
-* **sistlinear** - erros desconhecidos
-* **interpol** - número de avaliações acima do esperado
-* **qr** - erro na matriz Q, e, consequentemente, no vetor solução
-* **integral** - erro no cálculo da derivada
-* **simpson** - erro no simpson adaptativo
-* **euler** - erro no euler adaptativo
-* **sisfis** - erro no cálculo do pendulo por método numérico
+* **raiz** (80%) - número de avaliações acima do esperado e tratamento errado de não-convergência
+* **sistlinear** (60%) - erros desconhecidos
+* **interpol** (80%) - número de avaliações acima do esperado
+* **qr** (0%) - erro na matriz Q, e, consequentemente, no vetor solução
+* **integral** (70%) - erro no cálculo da derivada
+* **simpson** (80%) - erro no simpson adaptativo
+* **euler** (70%) - erro no euler adaptativo
+* **sisfis** (80%) - erro no cálculo do pendulo por método numérico
 
 Como quase tudo aqui no Github, este repositório é livre para sua livre adaptação, melhoramento e análise.
 
