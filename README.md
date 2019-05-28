@@ -1,12 +1,12 @@
 # Biblioteca de Análise Numérica
-Este é amontoado de módulos construídos ao longo do curso **INF 1608** da **PUC-Rio**, lecionada pelo professor e pesquizador **Waldemar Celes**. Alguns módulos não estão funcionando por completo. Os que receberam aprovação integral do corpo docente foram os módulos:
+Este é amontoado de módulos construídos ao longo do curso **INF 1608** da **PUC-Rio**, lecionada pelo professor e pesquisador **Waldemar Celes**. Alguns módulos não estão funcionando por completo. Os que receberam aprovação integral do corpo docente foram os módulos:
 * matriz
 * taylor
 * mmq
 * metiter
 * gradconj
 
-E os módulos **incompletos** , sua taxa de completude, e, em seguida, suas funcionalidades falhas:
+E os módulos **incompletos**, sua taxa de completude, e, em seguida, suas funcionalidades falhas:
 
 * **raiz** (80%) - número de avaliações acima do esperado e tratamento errado de não-convergência
 * **sistlinear** (60%) - erros desconhecidos
